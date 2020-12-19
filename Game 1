@@ -1,0 +1,4 @@
+class Laptop { 
+constructor(size, speed, quality, display){
+this.quality = quality
+this.display = display
